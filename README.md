@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m @shiv-neel
-- 👀 I’m interested in Human Computer Interaction, Front-End Developemnt, and Machine Learning
+- 👀 I’m interested in Human Computer Interaction, Fullstack Developemnt, and Machine Learning
 - 🌱 I’m currently learning React JS, Node JS, Anime JS, and many other JS frameworks
 - 👾 I’m looking to collaborate on virtually anything! I'm always looking for projects to work on.
 - 🕸 Check out my portfolio website at shivneel.com
